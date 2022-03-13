@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SourcePath=https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master
+SourcePath=https://raw.githubusercontent.com/TXIuTnVsbA/retroflag-picase/master
 
 #-----------------------------------------------------------
 sleep 2s
